@@ -2,3 +2,5 @@ hello git,nice to meet you
 shiro
 hello freemarker ftl
 factory bean
+java bean and spring bean
+修改了a.txt文件内容
