@@ -1,3 +1,4 @@
 hello git,nice to meet you
 shiro
 hello freemarker ftl
+factory bean
